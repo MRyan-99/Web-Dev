@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    background-image: url("./images/RPGNauvooBooks.webp");
+    background-size: cover;
+    opacity: 0.75;
+}
+p,h1 {
+    margin: auto;
+    width: 100%;
+    color: cyan;
+    text-align: center;
+}
+
+p {
+    font-size: 200%;
+    text-align: left;
+}
+
+h1:nth-child(2){
+    font-size: 300%;
+}
+
+.redText {
+    color: red;
+}
+
+#background{
+    background-color: teal;
+}
